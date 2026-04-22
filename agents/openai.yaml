@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stock Technical Analysis"
+  short_description: "Generate conditional stock technical decision support"
+  default_prompt: "Use $stock-technical-analysis to analyze HOOD from verified OHLCV CSV data and produce a conditional decision-support report."
